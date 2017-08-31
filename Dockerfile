@@ -20,4 +20,5 @@ COPY . /usr/src/app
 
 EXPOSE 80
 EXPOSE 3282
+EXPOSE 3282/udp
 CMD npm start
