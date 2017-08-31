@@ -1,0 +1,28 @@
+{
+  "name": "dat-project-analytics",
+  "version": "1.0.0",
+  "description": "[fair analytics](https://github.com/vesparny/fair-analytics) server for dat project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fair-analytics": "^1.1.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datproject/analytics-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datproject/analytics-server/issues"
+  },
+  "homepage": "https://github.com/datproject/analytics-server#readme"
+}
