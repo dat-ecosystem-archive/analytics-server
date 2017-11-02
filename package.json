@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "fair-analytics": "^1.2.1"
+    "fair-analytics": "^1.2.2"
   },
   "devDependencies": {
     "standard": "^10.0.3"
